@@ -252,9 +252,10 @@ h3 {
 }
 
 .contacts__link {
-  display: inline-flex;
+  display: flex;
   align-items: center;
 
+  font-size: 14px;
   font-weight: 500;
   line-height: 1.14;
   letter-spacing: 0.02em;
